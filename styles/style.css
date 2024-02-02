@@ -255,6 +255,9 @@ ol {
   font-size: 30px;
   line-height: 30px;
   text-transform: uppercase;
+}
+
+.content__video-card-title:first-child {
   margin-top: 6px;
 }
 
@@ -264,7 +267,7 @@ ol {
 
 .content__video-card-description {
   line-height: 16.2px;
-  margin-top: 6px;
+  margin-top: 3px;
 }
 
 .content__video-card-thumbnail {
