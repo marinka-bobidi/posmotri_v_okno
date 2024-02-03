@@ -50,9 +50,12 @@ ol {
 .content {
   display: flex;
   padding: 133px 30px;
-  align-items: flex-end;
-  width: 100%;
+  width: 1140px;
   gap: 30px;
+}
+
+.result {
+  align-self: flex-end;
 }
 
 .result__video-container {
