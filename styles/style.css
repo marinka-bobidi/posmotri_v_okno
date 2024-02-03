@@ -49,7 +49,7 @@ ol {
 
 .content {
   display: flex;
-  padding: 133px 30px;
+  margin: 133px 30px;
   width: 1140px;
   gap: 30px;
 }
