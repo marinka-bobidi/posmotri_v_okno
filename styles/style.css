@@ -157,7 +157,7 @@ ol {
   background-color: #fff;
 }
 
-.search-form__label-text:hover {
+.search-form__label:hover {
   text-decoration: underline;
 }
 
